@@ -1,10 +1,10 @@
 # Sobre Mim
 
-Olá, sou o Jefferson, um apaixonado por programação e tecnologia. Atualmente, estou focado em desenvolvimento back-end e Banco de dados, e estou sempre ansioso para aprender algo novo.
+Olá, sou o Jefferson, um apaixonado por programação e tecnologia. Atualmente, estou focado em desenvolvimento back-end e Banco de dados, e estou sempre em busca de para aprender algo novo.
 
 ## Habilidades
 
-- Linguagens de Programação: Java, Python, SQL, Javascript
+- Linguagens de Programação: Java, SpringBoot, SQL, 
 - Tecnologias: MySQL, Git e Github
 
 ## Projetos
@@ -17,8 +17,8 @@ Aqui estão alguns dos projetos nos quais trabalhei recentemente:
    - Tecnologias: Java.
 
 2. **Street Clothing**
-   - Um ponto de venda de roupas e acessórios, com interfaces gráficas utilizando javax.swing para criar menus de vendas, cadastro de clientes
-   - e produtos e relatórios e com integração ao banco de dados MySQL para realização do CRUD de produtos, clientes e pedidos.
+   - Sistema de ponto de venda de roupas e acessórios, com interfaces gráficas utilizando javax.swing para criar menus de vendas, cadastro de clientes,
+   - produtos e relatórios de venda, com integração ao banco de dados MySQL para realização do CRUD de produtos, clientes e pedidos.
    - Tecnologias: Java, SQL.
 
 ## Contato
