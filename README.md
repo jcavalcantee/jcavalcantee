@@ -1,7 +1,7 @@
 # Sobre Mim
 
 Olá, sou o Jefferson, um apaixonado por programação e tecnologia focado em desenvolvimento back-end e banco de dados, e estou sempre em busca de aprender algo novo.
-Atualmente estou desenvolvendo habilidades na criação de APIs RESTful, conceitos de computação em nuvem utilizando AWS, Docker, e desenvolvimento e implementação de teste unitários utilizando JUnit5 e Mockito.
+Atualmente estou desenvolvendo habilidades na criação de APIs RESTful, conceitos de computação em nuvem utilizando AWS, Docker, e desenvolvimento e implementação de testes unitários utilizando JUnit5 e Mockito.
 Busco minha primeira oportunidade na área de tecnologia, seja na área de suporte de T.I ou desenvolvimento de software.
 
 ## Habilidades
