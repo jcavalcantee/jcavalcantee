@@ -1,6 +1,8 @@
 # Sobre Mim
 
-Olá, sou o Jefferson, um apaixonado por programação e tecnologia. Atualmente, estou focado em desenvolvimento back-end e Banco de dados, e estou sempre em busca de aprender algo novo.
+Olá, sou o Jefferson, um apaixonado por programação e tecnologia focado em desenvolvimento back-end e banco de dados, e estou sempre em busca de aprender algo novo.
+Atualmente estou desenvolvendo habilidades na criação de APIs RESTful, conceitos de computação em nuvem utilizando AWS e Docker.
+Busco minha primeira oportunidade na área de tecnologia, seja na área de suporte de T.I ou desenvolvimento de software.
 
 ## Habilidades
 
