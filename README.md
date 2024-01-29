@@ -4,8 +4,9 @@ Olá, sou o Jefferson, um apaixonado por programação e tecnologia. Atualmente,
 
 ## Habilidades
 
-- Linguagens de Programação: Java, SpringBoot, SQL, 
-- Tecnologias: MySQL, Git e Github
+- Linguagens de Programação: Java, SQL.
+- Frameworks: SpringBoot.
+- Tecnologias: MySQL, Git e Github.
 
 ## Projetos
 
