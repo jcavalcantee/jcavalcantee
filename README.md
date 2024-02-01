@@ -1,44 +1,38 @@
-# Sobre Mim
+# Olá, sou o Jefferson Cavalcante 👋
 
-Olá, sou o Jefferson, um apaixonado por programação e tecnologia focado em desenvolvimento back-end e banco de dados, e estou sempre em busca de aprender algo novo.
-Atualmente estou desenvolvendo habilidades na criação de APIs RESTful, conceitos de computação em nuvem utilizando AWS, Docker, e desenvolvimento e implementação de testes unitários utilizando JUnit5 e Mockito.
-Busco minha primeira oportunidade na área de tecnologia, seja na área de suporte de T.I ou desenvolvimento de software.
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffersoncavalcante8/)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeffcavalcant_)
 
-## Habilidades
+![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcavalcantee&show_icons=true&theme=dracula)
 
-- Linguagens de Programação: Java, SQL.
-- Frameworks: SpringBoot.
-- Tecnologias: MySQL, Git e Github.
+## Tecnologias que eu utilizo:
 
-## Projetos
+<div style="display: inline_block">
+   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+   <img align="center" alt="SPRING" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+   <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+</div><br/>
 
-Aqui estão alguns dos projetos nos quais trabalhei recentemente:
+## Sobre mim:
+ Estudandante de Análise e Desenvolvimento de Sistemas no SENAC-SP.    
+ 
+ Atualmente estou desenvolvendo habilidades na criação de APIs RESTful, conceitos de computação em nuvem utilizando AWS, Docker, e desenvolvimento e implementação de testes unitários utilizando JUnit5 e Mockito. Busco minha primeira oportunidade na área de tecnologia, seja na área de suporte de T.I ou desenvolvimento de software.
 
-1. **Soccer Carrer Java**
+ ### Últimos projetos nos quais trabalhei:
+
+ 1. **Soccer Carrer Java**
    - Jogo em formato de RPG com intuito de simular um modo carreira de um jogador profissional de futebol, onde o desempenho
-   - é medido através de perguntas de múltiplas escolhas, onde cada fase possui uma pontuação mínima para avançar.
-   - Tecnologias: Java.
+   é medido através de perguntas de múltiplas escolhas, onde cada fase possui uma pontuação mínima para avançar.
+   - Tecnologia utilizada: Java.
 
-2. **Street Clothing**
+ 2. **Street Clothing**
    - Sistema de ponto de venda de roupas e acessórios, com interfaces gráficas utilizando javax.swing para criar menus de vendas, cadastro de clientes,
-   - produtos e relatórios de venda, com integração ao banco de dados MySQL para realização do CRUD de produtos, clientes e pedidos.
-   - Tecnologias: Java, SQL.
+   produtos e relatórios de venda, com integração ao banco de dados MySQL para realização do CRUD de produtos, clientes e pedidos.
+   - Tecnologias utilizadas: Java, SQL e MySQL.
 
-## Contato
-
-Se você quiser entrar em contato comigo, sinta-se à vontade para me enviar um e-mail em [jeffersoncavalcantesilvas@gmail.com] ou me encontrar nas redes sociais:
-
-- LinkedIn: Jefferson Cavalcante [https://www.linkedin.com/in/jefferson-cavalcante-254b4a1bb/]
-- Instagram: @jeffcavalcant_
-
-## Agradecimentos
-
-Agradeço por visitar o meu repositório e espero que você encontre algo interessante por aqui. Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma pergunta ou sugestão.
+   Agradeço por visitar o meu repositório e espero que você encontre algo interessante por aqui. Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma pergunta ou sugestão.
 
 **Vamos construir algo incrível juntos!** 🚀
 
-
-<!---
-jcavalcantee/jcavalcantee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
