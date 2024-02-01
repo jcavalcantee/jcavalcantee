@@ -16,7 +16,7 @@
 </div><br/>
 
 ## Sobre mim:
- Estudandante de Análise e Desenvolvimento de Sistemas no SENAC-SP.    
+ Estudante de Análise e Desenvolvimento de Sistemas no SENAC-SP.    
  
  Atualmente estou desenvolvendo habilidades na criação de APIs RESTful, conceitos de computação em nuvem utilizando AWS, Docker, e desenvolvimento e implementação de testes unitários utilizando JUnit5 e Mockito. Busco minha primeira oportunidade na área de tecnologia, seja na área de suporte de T.I ou desenvolvimento de software.
 
