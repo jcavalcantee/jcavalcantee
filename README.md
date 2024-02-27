@@ -25,12 +25,12 @@
  1. **Soccer Carrer Java**
    - Jogo em formato de RPG com intuito de simular um modo carreira de um jogador profissional de futebol, onde o desempenho
    é medido através de perguntas de múltiplas escolhas, onde cada fase possui uma pontuação mínima para avançar.
-   # Tecnologia utilizada: Java.
+   ### Tecnologia utilizada: Java.
 
  2. **Street Clothing**
    - Sistema de ponto de venda de roupas e acessórios, com interfaces gráficas utilizando javax.swing para criar menus de vendas, cadastro de clientes,
    produtos e relatórios de venda, com integração ao banco de dados MySQL para realização do CRUD de produtos, clientes e pedidos.
-   # Tecnologias utilizadas: Java, SQL e MySQL.
+   ### Tecnologias utilizadas: Java, SQL e MySQL.
 
 
  3. **Sistema de Pizzaria**
@@ -38,7 +38,7 @@
    - práticas no desenvolvimento de APIs, como implementação de classes de serviços para separar a lógica de negócio dos controladores de requisições, utilização de verbos HTTP corretos 
    - e responses apropriadas para cada cenário. Implementação de HATEOAS nas responses com links de direcionamento para auxiliar o usuário da API e documentação com Swagger UI, o que 
    - permite uma melhor visualização e testes dos enpoints da aplicação
-   # Tecnologias utilizadas: Java, Maven, SpringBoot, MySQL, JPA, Hibernate, HATEOAS e Swagger.
+   ### Tecnologias utilizadas: Java, Maven, SpringBoot, MySQL, JPA, Hibernate, HATEOAS e Swagger.
 
    Agradeço por visitar o meu repositório e espero que você encontre algo interessante por aqui. Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma pergunta ou sugestão.
 
