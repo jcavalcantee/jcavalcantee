@@ -39,7 +39,7 @@
    Seguindo boas práticas no desenvolvimento de APIs, como implementação de classes de serviços para separar a lógica de negócio dos controladores de requisições,
    utilização de verbos HTTP corretos e responses apropriadas para cada cenário. Implementação de HATEOAS nas responses com links de direcionamento para auxiliar o
    usuário da API e documentação com Swagger UI, o que permite uma melhor visualização e testes dos enpoints da aplicação.
-   - Implementando Migrations utilizando o Flyway para versionar o schema da aplicação e controle de alterações no banco de dados.
+   - Implementado Migrations utilizando o Flyway para versionar o schema da aplicação e controle de alterações no banco de dados.
    - Tecnologias utilizadas: Java, Maven, SpringBoot, MySQL, JPA, Hibernate, Flyway, HATEOAS e Swagger.
 
    Agradeço por visitar o meu repositório e espero que você encontre algo interessante por aqui. Sinta-se à vontade para explorar meus projetos e entrar em contato se tiver alguma pergunta ou sugestão.
