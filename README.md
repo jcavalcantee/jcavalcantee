@@ -1,17 +1,21 @@
-# Hi, I'm Jefferson Cavalcante 👋
+# Olá, sou o Jefferson Cavalcante! 👋
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jcavalcantee&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Jefferson github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcavalcantee&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
-</div>
+## Sobre mim:
 
-## Contact
+Tenho 21 anos, sou graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-SP e atualmente curso Bacharelado em Sistemas de Informação.
+Atuo como estagiário na Johnson & Johnson, onde venho aplicando e ampliando meus conhecimentos práticos por meio de projetos focados em automação de processos e Business Intelligence.
+Sou um resolvedor de problemas — independentemente da tecnologia envolvida. Acredito que a lógica, o raciocínio estruturado e a capacidade de adaptação são mais importantes do que qualquer ferramenta específica.
+Tenho experiência com APIs RESTful, Power Platform, ferramentas de automação e análise de dados. Também sou certificado pela Microsoft (AZ-900 - Azure Fundamentals), o que reforça meu interesse e preparo para atuar com soluções em nuvem e ambientes escaláveis.
+
+---
+
+## 📫 Contato
 <div> 
 <a href = "mailto:cmp.1a.jeffersoncavalcantesilvas@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jeffersoncavalcante8" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 </div>
 
-## Technologies I use:
+## 🛠️ Minhas tecnologias:
 
 <img
   align="left"
@@ -95,19 +99,43 @@
 />
 <img
   align="left"
-  alt="Git"
-  title="Git"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-  align="left"
   alt="Azure"
   title="Azure"
   width="50px"
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
+/>
+<img
+  align="left"
+  alt="Power BI"
+  title="Power BI"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
+/>
+<img
+  align="left"
+  alt="Power Automate"
+  title="Power Automate"
+  width="50px"
+  style="padding-right: 10px;"
+  src="Power_Platform_icons/PowerAutomate_scalable.svg"
+/>
+<img
+  align="left"
+  alt="Power Automate"
+  title="Power Automate"
+  width="50px"
+  style="padding-right: 10px;"
+  src="Power_Platform_icons/PowerApps_scalable.svg"
+/>
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="50px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 <img
   align="left"
@@ -133,27 +161,17 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
 />
-<img
-  align="left"
-  alt="Power BI"
-  title="Power BI"
-  width="50px"
-  style="padding-right: 10px;"
-  src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"
-/>
-
-
-
 <br clear="left"/>
 <br/>
 
-## About me:
+---
 
- I am a Systems Analysis and Development student at SENAC-SP, with a focus on Software Development, Automation, and Data Analysis. Currently, I am developing skills in RESTful APIs, automation projects 
- using Power Platform and Business Intelligence.
+## 📊 Estatísticas
 
- I am currently an intern at Johnson & Johnson, where I am applying and expanding my practical knowledge, working on projects related to process automation and data analysis, as well as learning about the 
- role of a product analyst and engaging with stakeholders.
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jcavalcantee&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Jefferson github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcavalcantee&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" />
+</div>
  
-   **Let's build something amazing together!** 🚀
+**Vamos construir algo incrível juntos?!** 🚀
 
