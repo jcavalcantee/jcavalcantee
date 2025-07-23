@@ -123,8 +123,8 @@ Tenho experiência com APIs RESTful, Power Platform, ferramentas de automação 
 />
 <img
   align="left"
-  alt="Power Automate"
-  title="Power Automate"
+  alt="Power Apps"
+  title="Power Apps"
   width="50px"
   style="padding-right: 10px;"
   src="Power_Platform_icons/PowerApps_scalable.svg"
