@@ -2,10 +2,10 @@
 
 ## Sobre mim:
 
-Tenho 21 anos, sou graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-SP e atualmente curso Bacharelado em Sistemas de Informação.
-Atuo como estagiário na Johnson & Johnson, onde venho aplicando e ampliando meus conhecimentos práticos por meio de projetos focados em automação de processos e Business Intelligence.
-Sou um resolvedor de problemas independentemente da tecnologia envolvida. Acredito que a lógica, o raciocínio estruturado e a capacidade de adaptação são mais importantes do que qualquer ferramenta específica.
-Tenho experiência com APIs RESTful, Power Platform, ferramentas de automação e análise de dados. Também sou certificado pela Microsoft (AZ-900 - Azure Fundamentals), o que reforça meu interesse e preparo para atuar com soluções em nuvem e ambientes escaláveis.
+Tenho 22 anos e sou graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-SP.
+Atuo como consultor de Power Platform, atendendo a The HEINEKEN Company, onde aplico soluções low-code voltadas às áreas de negócio. Além disso, atuo na capacitação e mentoria de citizen developers, incentivando o uso estratégico da tecnologia para ganho de eficiência e autonomia.
+Tenho um perfil orientado à resolução de problemas, independente da tecnologia envolvida. Acredito que lógica, raciocínio estruturado e adaptabilidade são mais importantes do que qualquer ferramenta específica.
+Possuo experiência com APIs RESTful, Power Platform, automação de processos e análise de dados. Sou certificado pela Microsoft (AZ-900 – Azure Fundamentals), o que reforça meu preparo para atuar com soluções em nuvem e ambientes escaláveis.
 
 ---
 
