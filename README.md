@@ -2,8 +2,8 @@
 
 ## Sobre mim:
 
-Tenho 22 anos e sou graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-SP.
-Atuo como consultor de Power Platform, atendendo a The HEINEKEN Company, onde aplico soluções low-code voltadas às áreas de negócio. Além disso, atuo na capacitação e mentoria de citizen developers, incentivando o uso estratégico da tecnologia para ganho de eficiência e autonomia.
+Tenho 23 anos e sou graduado em Análise e Desenvolvimento de Sistemas pelo SENAC-SP.
+Atuo como desenvolvedor de Power Platform na Johnson & Johnson MedTech, onde aplico soluções low-code voltadas às áreas de negócio. Além disso, atuo na capacitação e mentoria de citizen developers, incentivando o uso estratégico da tecnologia para ganho de eficiência e autonomia.
 Tenho um perfil orientado à resolução de problemas, independente da tecnologia envolvida. Acredito que lógica, raciocínio estruturado e adaptabilidade são mais importantes do que qualquer ferramenta específica.
 Possuo experiência com APIs RESTful, Power Platform, automação de processos e análise de dados. Sou certificado pela Microsoft (AZ-900 – Azure Fundamentals), o que reforça meu preparo para atuar com soluções em nuvem e ambientes escaláveis.
 
